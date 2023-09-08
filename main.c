@@ -3,6 +3,6 @@
 
 int main 
 {
-printmyname();
+
 return 0;
 }
